@@ -32,22 +32,24 @@ header > p {
   position: relative;
   width: 90%;
   margin: auto;
+  text-align: center;
 }
 
 .meme > img {
-  width: 50%;
-  height:40%;
+  width:80%;
+  height:auto;
+  background: cover;
   background-repeat: no-repeat;
 }
 
 .meme > h2 {
   position: absolute;
-  width: 80%;
+  max-width: 80%;
   text-align: center;
-  left: 25%;
+  left: 49%;
   transform: translateX(-50%);
   margin: 15px 0;
-  padding: 0 5px;
+  padding: 0 0px;
   font-family: impact, sans-serif;
   font-size: 2em;
   text-transform: uppercase;
@@ -66,11 +68,11 @@ header > p {
 }
 
 .meme > .bottom {
-  bottom: 0;
+  bottom: 10px;
 }
 
 .meme > .top {
-  top: 0;
+  top: 10px;
 }
 
 .meme-form {
@@ -85,7 +87,7 @@ header > p {
   border-radius: 5px;
   margin-left:65px;
   display:block;
-  width: 45%;
+  width: 50%;
   height: 40px;
 }
 
@@ -94,7 +96,7 @@ header > p {
   width:170px;
   margin-top:10px;
   margin-left:65px;
-  border:3px rgb(231, 195, 195) solid;
+  border:3px rgb(221, 210, 210) solid;
   font-family: VT323, monospace;
   font-size: 25px;
   letter-spacing: 1.5px;

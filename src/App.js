@@ -1,24 +1,17 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
-import Header from './Header'
-import MemeGenerator from './MemeGenerator'
+import React from "react";
 
-class App extends React.Component{
-  constructor(props){
-    super(props)
-    
+import "./App.css";
+import Header from "./Header";
+import MemeGenerator from "./MemeGenerator";
 
-  }
-  
-  
-  render(){
+class App extends React.Component {
+  render() {
     return (
       <div>
-        <Header/>
-        <MemeGenerator/>
+        <Header />
+        <MemeGenerator />
       </div>
-    )
+    );
   }
 }
 

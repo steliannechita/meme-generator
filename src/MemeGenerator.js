@@ -4,8 +4,8 @@ class MemeGenerator extends Component{
     constructor(){
         super()
         this.state={
-            topText:'',
-            bottomText:'',
+            topText:'One does not simply walk into Mordor',
+            bottomText:'to kill sauron with a wooden sword',
             randomImg:'http://i.imgflip.com/1bij.jpg',
             allMemeImgs:[]
           }
@@ -50,8 +50,9 @@ class MemeGenerator extends Component{
                 <button onClick={this.handleClick}>Generate!</button>
             </from>
             <div className='meme'>
-                <img src={this.state.randomImg} alt=''/>
                 <h2 className='top'>{this.state.topText}</h2>
+                <img src={this.state.randomImg} alt=''/>
+                
                 <h2 className='bottom'>{this.state.bottomText}</h2>
             </div>   
         
