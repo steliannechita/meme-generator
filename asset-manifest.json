@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/meme-generator/static/css/main.74306373.chunk.css",
-    "main.js": "/meme-generator/static/js/main.432c67c7.chunk.js",
-    "main.js.map": "/meme-generator/static/js/main.432c67c7.chunk.js.map",
+    "main.css": "/meme-generator/static/css/main.dd4ee58d.chunk.css",
+    "main.js": "/meme-generator/static/js/main.76719b4b.chunk.js",
+    "main.js.map": "/meme-generator/static/js/main.76719b4b.chunk.js.map",
     "runtime~main.js": "/meme-generator/static/js/runtime~main.0d1394e5.js",
     "runtime~main.js.map": "/meme-generator/static/js/runtime~main.0d1394e5.js.map",
     "static/js/2.c39fed63.chunk.js": "/meme-generator/static/js/2.c39fed63.chunk.js",
     "static/js/2.c39fed63.chunk.js.map": "/meme-generator/static/js/2.c39fed63.chunk.js.map",
     "index.html": "/meme-generator/index.html",
-    "precache-manifest.c916e866010db4926f47c4ab540509f3.js": "/meme-generator/precache-manifest.c916e866010db4926f47c4ab540509f3.js",
+    "precache-manifest.2398a2055fd3ea32b688a5a0d7696e6a.js": "/meme-generator/precache-manifest.2398a2055fd3ea32b688a5a0d7696e6a.js",
     "service-worker.js": "/meme-generator/service-worker.js",
-    "static/css/main.74306373.chunk.css.map": "/meme-generator/static/css/main.74306373.chunk.css.map"
+    "static/css/main.dd4ee58d.chunk.css.map": "/meme-generator/static/css/main.dd4ee58d.chunk.css.map"
   }
 }
