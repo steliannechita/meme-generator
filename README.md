@@ -1,5 +1,4 @@
-Meme generator created using React. This app is one of the projects of React tutorial (by Bob Ziroll) I've used as a source of self-learning, on Scrimba.
-
+Meme generator created using React.
 ## Project purpose
 
 - Creating a meme generator that fetches data (images) from an API (https://api.imgflip.com) and allows user to add text captions to established memes.
