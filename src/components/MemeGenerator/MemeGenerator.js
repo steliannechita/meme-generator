@@ -1,10 +1,10 @@
 import React, { Component } from "react";
-
+import "./MemeGenerator.css";
 class MemeGenerator extends Component {
   constructor() {
     super();
     this.state = {
-      font_size: "",
+      font_size: "22",
       topText: "",
       bottomText: "",
       randomImg: "http://i.imgflip.com/1bij.jpg",

@@ -1,8 +1,8 @@
 import React from "react";
 
 import "./App.css";
-import Header from "./Header";
-import MemeGenerator from "./MemeGenerator";
+import Header from "../Header/Header";
+import MemeGenerator from "../MemeGenerator/MemeGenerator";
 
 class App extends React.Component {
   render() {

@@ -1,0 +1,30 @@
+header {
+  height: 8em;
+  display: flex;
+  align-items: center;
+  border-bottom: 1px solid;
+  justify-content: left;
+  background: #6441a5; /* fallback for old browsers */
+  background: -webkit-linear-gradient(
+    to right,
+    #bd98db,
+    #6441a5
+  ); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(
+    to right,
+    #b62424,
+    rgb(229, 160, 160)
+  ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+header > img {
+  height: 75%;
+  margin: 1em 0em 1em 0.5em;
+}
+
+header > p {
+  font-family: VT323, monospace;
+  color: whitesmoke;
+  font-size: 2rem;
+  margin-left: 1.5rem;
+}
